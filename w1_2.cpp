@@ -1,4 +1,5 @@
 #include<stdio.h>
+#define _CRT_SECURE_NO_WARNINGS
 int main()
 {
     int n,i=1,j=1,k;
